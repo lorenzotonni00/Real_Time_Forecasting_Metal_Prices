@@ -19,6 +19,7 @@ The authors have legitimate access to all the data used in the paper. The data f
 | US predictors (Table 1), T10Y3M, VIX, WTI, DTB3, iron ore, exchange rates| ALFRED, St. Louis Fed | Yes | `data_FR.xlsx`, `example_revisions.xlsx`, `T10Y3M.xlsx`, `VIX.xlsx`, `WTI.xlsx`, `DTB3.xlsx`, `iron_ore_price.xlsx`, `AU.xlsx`, `CA.xlsx`, `CHN.xlsx`, `HK.xlsx`, `INDI.xlsx`, `INDO.xlsx`, `JP.xlsx`, `SF.xlsx`, `SW.xlsx`, `PH.csv`, `QA.csv`, `RO.csv`, `PREDICTORS_lev_*.mat`, `Results_nowcasting_*.mat` |
 | OECD composite leading indicators, world industrial production | OECD; Baumeister and Hamilton (2019) | Yes | `CLI_vintages.csv`, `WIP_baumeister.xlsx` |
 
+The data for Figure 1 (world consumption of the four metals) come from the World Bureau of Metal Statistics (WBMS); they are not public and are not included.
 
 ### Non-public data
 
